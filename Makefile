@@ -1,4 +1,5 @@
-NAME = phusion/passenger
+#NAME = phusion/passenger
+NAME = samip537/passenger-test
 VERSION = 1.0.10
 # Extra flags for docker build, usable via environment variable.
 # Example: `export EXTRA_BUILD_FLAGS=--no-cache; make build_all`
